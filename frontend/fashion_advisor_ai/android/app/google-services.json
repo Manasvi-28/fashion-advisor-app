@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827515867218",
+    "project_id": "fashionadvisorapp-79197",
+    "storage_bucket": "fashionadvisorapp-79197.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827515867218:android:22c81d694bda0f7d908f8b",
+        "android_client_info": {
+          "package_name": "com.example.fashion_advisor_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYhAOtYAb_WyBKhQKYPDpC0xLHkSFRSCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
